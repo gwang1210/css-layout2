@@ -1,2 +1,5 @@
 /*your custom CSS here*/
-div {padding: 10px 25px 15px 25px;}
+.box {padding: 10px 25px 15px 25px;}
+img {
+  width: 100%;
+}
